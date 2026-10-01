@@ -13,7 +13,6 @@
 - [Funcionalidades](#funcionalidades)
 - [Estructura del proyecto](#estructura-del-proyecto)
 - [Instalación local](#instalación-local)
-- [Próximas mejoras](#próximas-mejoras)
 - [Aprendizajes](#aprendizajes)
 
 ## Objetivo
@@ -82,13 +81,6 @@ http://localhost/liga_colombia/
 ```
 
 </details>
-
-## Próximas mejoras
-
-- Añadir capturas de la interfaz y del modelo entidad-relación.
-- Mejorar la interfaz visual y la experiencia en móvil.
-- Documentar procedimientos almacenados y triggers destacados.
-- Añadir una configuración de conexión de ejemplo sin credenciales reales.
 
 ## Aprendizajes
 
